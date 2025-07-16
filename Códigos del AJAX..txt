@@ -1,0 +1,36 @@
+cls = limpiar todo la consola.
+
+npm init (iniciar consola)
+
+API: (Application Programming Interface) interfaz de programación: 
+
+npm i xmlhttprequest  --save (sirve para descargar dependencias).
+
+npmi - (guardar paquetes).
+
+cd Ajax (búsqueda de carpeta).
+
+npm install -g npm
+
+!-----Crear proyecto Nuevo de React-----!
+
+npx create-react-app nombre-proyecto (oswaldo) -- crear el proyecto.
+
+cd oswaldo -- seleccionar carpeta.
+
+npm start -- iniciar.
+
+------- Para crear el Proyecto conectado a la Base de Datos en React. -----------
+
+1. npm init 
+2. npm i express cors sqlite body-parser
+3. npm i --save-dev chai chai-http faker mocha nodemon 
+4. npm i --save-dev @babel/cli @babel/register
+5. npm i sqlite3
+6. npm i @babel/node
+7. npm i @babel/preset-env
+
+Nota: Para abrir la Base de Datos que se crea en React cuando se ejecuta el Proyecto, descargar el archivo "db Browser for SQLite" y descomprimir la Carpeta que se descarga de la página (DB Browser for SQLite - zip (no installer). 
+
+
+

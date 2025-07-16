@@ -1,0 +1,18 @@
+
+Código de Los Personajes de React.
+
+{
+                "id": 0,
+                "title": "Boston Terrier",
+                "descript": "¡Hola! Mi nombre es Mike y me gustaría tener un cálido hogar; soy travieso y juguetón. Tengo 3 añitos y estoy listo para salir a correr alrededor del parque.",
+                "img":boston,
+                "color":"rgb(9, 46, 82)",
+
+            },
+            {
+                "id": 1,
+                "title":"Persa",
+                "descript":"¡Hola! Mi nombre es Pelusa y me gustaría tener un cálido hogar; soy tranquilo y me gustan los abrazos. Tengo 4 años y me encanta dormir, comer y brincar.",
+                "img": persa,
+                "color":"rgb(9, 46, 82)"
+            }
